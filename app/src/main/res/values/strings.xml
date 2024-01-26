@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherTest</string>
+    <string name="logo">Pogoada v vashem gorode</string>
+    <string name="hind_user_filed">write your city</string>
+    <string name="main_button">CLICK</string>
+    <string name="nouser_input">JAZZZZ</string>
+</resources>
